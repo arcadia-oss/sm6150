@@ -126,10 +126,10 @@ all.config
 # fetched Android config fragments
 kernel/configs/android-*.cfg
 
-#
-#Ignoring Android.bp link file
-#
-Android.bp
-
 # haha no out
 out/
+AnyKernel/
+clang/
+gcc/
+gcc32/
+modules/
